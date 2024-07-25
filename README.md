@@ -1,7 +1,7 @@
 # PostgresSQL Manager
 Modul sederhana untuk memudahkan pengguna melakukan CRUD dalam database melalui python. Modul ini tidak sepenuhnya dapat melakukan semua CRUD di semua kondisi dalam PostgreSQL, karena keterbatasan pengetahuan dan keterampilan creator masih banyak terdapat celah dan batasan yang memuat modul sering tidak berjalan seperti semestinya.
 
-**DISCLAIMER!**
+**DISCLAIMER!**\n
 Modul ini tidak diperuntukkan untuk penggunaan sehari-hari atau bahkan dalam project. Harap gunakan modul hanya untuk memenuhi rasa penasaran, mencoba atau ingin mengetahui cara kerja modul.
 
 **NOTE:**
